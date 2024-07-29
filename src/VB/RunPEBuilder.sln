@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "RunPEBuilder", "RunPEBuilder\RunPEBuilder.vbproj", "{1BC6A4A0-4FC0-000F-3533-36F10077B1A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BC6A4A0-4FC0-000F-3533-36F10077B1A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BC6A4A0-4FC0-000F-3533-36F10077B1A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BC6A4A0-4FC0-000F-3533-36F10077B1A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BC6A4A0-4FC0-000F-3533-36F10077B1A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15CED310-6737-4A53-A77A-5587CC2E2EDB}
+	EndGlobalSection
+EndGlobal
